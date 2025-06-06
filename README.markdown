@@ -68,11 +68,10 @@ Durante o desenvolvimento da nossa Plataforma Amazon Games, algumas adaptações
 
 ## Screenshots
 
-*Insira aqui as capturas de tela do site pronto. Arraste e solte as imagens ou adicione os caminhos dos arquivos (exemplo: `screenshots/homepage.png`).*
-
-- **Página Inicial**: [Adicione a imagem da página inicial]
-- **Catálogo de Produtos**: [Adicione a imagem do catálogo]
-- **Tela de Login**: [Adicione a imagem da tela de login]
+- **Página Inicial**: [pagina_inicial.jpeg]
+- **Carrinho**: [carrinho.jpeg]
+- **Tela de Login**: [login.jpeg]
+- **Página Produto**:[pagina_produto.jpeg]
 
 ## Autores
 
