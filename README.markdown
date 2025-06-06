@@ -68,10 +68,10 @@ Durante o desenvolvimento da nossa Plataforma Amazon Games, algumas adaptações
 
 ## Screenshots
 
-- **Página Inicial**: [pagina_inicial.jpeg]
-- **Carrinho**: [carrinho.jpeg]
-- **Tela de Login**: [login.jpeg]
-- **Página Produto**:[pagina_produto.jpeg]
+- **Página Inicial**: ![Página Inicial](screenshots/pagina_inicial.jpeg)
+- **Carrinho**: ![Carrinho](screenshots/carrinho.jpeg)
+- **Tela de Login**: ![Tela de Login](screenshots/login.jpeg)
+- **Página Produto**: ![Página Produto](screenshots/pagina_produto.jpeg)
 
 ## Autores
 
